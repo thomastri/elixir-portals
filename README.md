@@ -1,6 +1,15 @@
 # Portal
 
-**TODO: Add description**
+**1. Atom IDE
+2. Mix
+3. Stacks in Elixir
+4. Supervisors (continue the program after one node is shut down;
+creates a clone of expected portal in our example)
+5. Distributed transfers: open a "portal" on one terminal and modify /
+access it from another terminal
+
+Followed along with Jose Valim's tutorial:
+http://howistart.org/posts/elixir/1/**
 
 ## Installation
 
@@ -18,4 +27,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/portal](https://hexdocs.pm/portal).
-
