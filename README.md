@@ -1,5 +1,8 @@
 # Portal
+A small Elixir project that allows users to push data from one "portal" to another.
+Portals can be on different computers (same network) and the objects will still interact.
 
+Practiced with the following concepts
 1. Atom IDE
 2. Mix
 3. Stacks in Elixir
