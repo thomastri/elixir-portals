@@ -1,6 +1,6 @@
 # Portal
 
-**1. Atom IDE
+1. Atom IDE
 2. Mix
 3. Stacks in Elixir
 4. Supervisors (continue the program after one node is shut down;
@@ -9,7 +9,7 @@ creates a clone of expected portal in our example)
 access it from another terminal
 
 Followed along with Jose Valim's tutorial:
-http://howistart.org/posts/elixir/1/**
+http://howistart.org/posts/elixir/1/
 
 ## Installation
 
